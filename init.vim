@@ -1,0 +1,1 @@
+/home/kirreen/.config/nvim/init.vim
